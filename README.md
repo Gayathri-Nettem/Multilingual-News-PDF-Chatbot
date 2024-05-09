@@ -6,11 +6,11 @@ This is a conversational chatbot designed to assist users in understanding conte
 
 To run the code, use the following commands:
 For Hindi language URL/PDF chatbot
-```bash streamlit run Hindi_News_Pdf_Chatbot.py
+```streamlit run Hindi_News_Pdf_Chatbot.py
 
 ```
 For multilingual URL/PDF chatbot
-```bash streamlit run MultiLang_News_PDF_Chatbot.py
+```streamlit run MultiLang_News_PDF_Chatbot.py
 
 ```
 
